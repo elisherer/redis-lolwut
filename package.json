@@ -1,0 +1,27 @@
+{
+  "name": "redis-lolwut",
+  "version": "1.0.1",
+  "description": "Port of redis LOLWUT command to JavaScript (NodeJS)",
+  "main": "./index.js",
+  "bin": {
+    "lolwut": "./index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/elisherer/redis-lolwut.git"
+  },
+  "license": "MIT",
+  "author": {
+    "name": "Eli Sherer",
+    "email": "eli.sherer@gmail.com"
+  },
+  "keywords": [
+    "redis",
+    "lolwut",
+    "fun",
+    "interesting",
+    "easter egg"
+  ],
+  "dependencies": {
+  }
+}
